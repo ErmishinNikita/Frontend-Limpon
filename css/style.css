@@ -1,0 +1,94 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 80px; 
+    color: #192b59;
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+}
+.nav a {
+    color: #6e7ea9;
+}
+.grid h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #192b59;
+}
+.grid h2 span{
+    font-size: 14px;
+    color: #1085e4;
+    display: block;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 80px;
+    color: #192b59;
+}
+a {
+    text-decoration: none;
+}
+.nav {
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+}
+.nav li {
+    display: inline-block;
+}
+.nav a {
+    color: #6e7ea9;
+}
+a {
+    text-decoration: none;
+}
+.grid h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #192b59;
+}
+.grid h2 span {
+    font-size: 14px;
+    color: #1085e4;
+    display: block;
+}
+.instrument li {
+    display: inline-block;
+}
+.instrument h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #192b59;
+    display: block;
+}
+.instrument a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #1085e4;
+    display: block;
+}
+.instrument p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #7581a1;
+    display: block;
+}
+.instrument h4 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #192b59;
+}
